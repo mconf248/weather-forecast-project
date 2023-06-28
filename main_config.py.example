@@ -1,0 +1,2 @@
+WEATHERSTACK_API = 'Your API key here'
+WEATHER_ZIPCODE = 'Your zipcode here'
