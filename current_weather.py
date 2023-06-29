@@ -1,4 +1,3 @@
-
 import main_config
 import requests
 from prettytable import PrettyTable

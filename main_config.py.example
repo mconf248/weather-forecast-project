@@ -1,6 +1,6 @@
-#WEATHERSTACK_API = https://weatherstack.com/ for API key
-#WEATHER_ZIPCODE = Preferred zipcode
-#WEATHER_UNITS m = Metric, s = Scientific, f = Fahrenheit
+# WEATHERSTACK_API = https://weatherstack.com/ for API key
+# WEATHER_ZIPCODE = Preferred zipcode
+# WEATHER_UNITS m = Metric, s = Scientific, f = Fahrenheit
 
 WEATHERSTACK_API = 'Your API Key here'
 WEATHER_ZIPCODE = '&query=Your Zipcode'
