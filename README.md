@@ -1,2 +1,2 @@
 # weather-forecast-project
-# Simple script to obtain current weather information using WeatherStack API
+# Obtain current weather information using WeatherStack API
